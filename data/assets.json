@@ -1,0 +1,47 @@
+{
+    "assets": [
+        {   
+            "assetId": "b-1",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:36:42+00:00",
+            "assetValue": 10.3
+        },
+        {
+            "asset-id": "b-2",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:35:42+00:00"
+        },
+        {   
+            "id": "b-3",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:34:42+00:00"
+        },
+        {
+            "id": "b-4",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:33:42+00:00"
+        },
+        {
+            "id": "b-5",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:32:42+00:00"
+        },
+        {
+            "id": "b-6",
+            "name": "Some address, Zurich",
+            "caption": "4 Floors, 1000 m\u00b2",
+            "previewImg": "/static/building.jpg",
+            "editAt": "2023-02-21T14:31:42+00:00"
+        }
+    ]
+}

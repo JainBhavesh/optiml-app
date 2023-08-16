@@ -1,0 +1,86 @@
+[
+  {
+    "portfolio": "Green",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Green",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Green",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Residential",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Commercial",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Green",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  },
+  {
+    "portfolio": "Residential",
+    "assetsID": "1111",
+    "address": "Some address",
+    "city": "Zurich",
+    "zIP": "8040",
+    "canton": "ZH",
+    "country": "CH",
+    "type": "MFH",
+    "buildings": "3",
+    "buildYear": "1970"
+  }
+]

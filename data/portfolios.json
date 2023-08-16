@@ -1,0 +1,33 @@
+{
+  "portfolios": [
+    {
+      "portfolioId": "green-portfolio",
+      "name": "Green building Portfolio",
+      "value": "Green",
+      "description": "New builds with labels and freshly renovated assets with low-CO2",
+      "posterImg": "/static/green.jpg",
+      "posterTitle": "15 assets with a total value of CHF 34M",
+      "editAt": "2023-02-21T14:34:42+00:00"
+    },
+    {
+      "portfolioId": "residential-portfolio",
+      "name": "Residential Portfolio",
+      "value": "Residential",
+      "description": "Portfolio containing residential assets in growing urban areas",
+      "posterImg": "/static/residential.jpg",
+      "posterTitle": "Residential",
+      "posterSubtitle": "20 assets with a total value of CHF 56M",
+      "editAt": "2023-02-21T14:33:42+00:00"
+    },
+    {
+      "portfolioId": "commercial-portfolio",
+      "name": "Commercial portfolio",
+      "value": "Residential",
+      "description": "Portfolio containing commercial assets in prime locations",
+      "posterImg": "/static/commercial.jpg",
+      "posterTitle": "Commercial",
+      "posterSubtitle": "20 assets with a total value of CHF 56M",
+      "editAt": "2023-02-21T14:32:42+00:00"
+    }
+  ]
+}

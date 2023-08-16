@@ -1,0 +1,38 @@
+{
+  "scenarios": [
+    {
+      "name": "BAU",
+      "caption": "Stagnating policy  landscape reflecting the 2022 status quo. Technology cost remain largely unchanged",
+      "posterGrdt": [
+        [0, "#4E3ABA"],
+        [0.7, "#A24670"],
+        [1, "#DB4E66"]
+      ],
+      "posterTitle": "BAU",
+      "posterSubtitle": "Assuming that the policy landscape and technology cost remain unchanged.",
+      "editAt": "2023-02-21T14:34:42+00:00"
+    },
+    {
+      "name": "Net Zero 2050",
+      "caption": "Represents the official Swiss Energy Strategy 2050 objectives",
+      "posterGrdt": [
+        [0, "#4E3ABA"],
+        [1, "#DB4E66"]
+      ],
+      "posterTitle": "Net Zero 2040",
+      "posterSubtitle": "Maximum ambition scenario to meet targets earlyt.",
+      "editAt": "2023-02-21T14:34:40+00:00"
+    },
+    {
+      "name": "Net Zero 2040",
+      "caption": "Maximum ambition scenario to meet targets early.",
+      "posterGrdt": [
+        [0, "#4E3ABA"],
+        [1, "#1C675D"]
+      ],
+      "posterTitle": "NZ50",
+      "posterSubtitle": "More text.",
+      "editAt": "2023-02-21T14:33:42+00:00"
+    }
+  ]
+}
